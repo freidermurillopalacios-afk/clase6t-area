@@ -1,4 +1,3 @@
-// Referencias a los elementos del HTML
 const inputNum1 = document.getElementById("numero");
 const inputNum2 = document.getElementById("numero2");
 const opcion = document.getElementById("opcion");
